@@ -1,0 +1,14 @@
+# Build output
+bin/
+obj/
+**/Debug/
+**/Release/
+
+# IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# OS files
+.DS_Store
