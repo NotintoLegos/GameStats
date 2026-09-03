@@ -83,3 +83,4 @@
 /Users/hope/Desktop/homeProjects/GameStats/GameStats/obj/Debug/net10.0/GameStats.pdb
 /Users/hope/Desktop/homeProjects/GameStats/GameStats/obj/Debug/net10.0/GameStats.genruntimeconfig.cache
 /Users/hope/Desktop/homeProjects/GameStats/GameStats/obj/Debug/net10.0/ref/GameStats.dll
+/Users/hope/Desktop/homeProjects/GameStats/GameStats/obj/Debug/net10.0/GameStats.sourcelink.json
